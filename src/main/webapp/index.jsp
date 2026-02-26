@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 <head><title>DevOps Demo</title></head>
 <body>
-<h1>🚀 DevOps CI/CD Working!</h1>
+<h1>🚀Hello Pratik DevOps CI/CD Working!</h1>
 <h2>Git + Jenkins + Maven + Docker + EC2</h2>
 =======
 <body style="text-align:center;margin-top:100px;">
