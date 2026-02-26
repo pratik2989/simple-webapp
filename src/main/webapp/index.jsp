@@ -1,14 +1,12 @@
 <html>
-<<<<<<< HEAD
-<head><title>DevOps Demo</title></head>
-<body>
-<h1>🚀Hello Pratik DevOps CI/CD Working!</h1>
-<h2>Git + Jenkins + Maven + Docker + EC2 + ECR + ECS</h2>
-=======
-<body style="text-align:center;margin-top:100px;">
-<h1>🚀 Jenkins Maven CI/CD Working!</h1>
-<h2>Git → Jenkins → Maven → EC2 +ECR + ECS</h2>
->>>>>>> 6dde19beb8a90defa6e2e81d815f6cb5c4dee8a1
-</body>
-</html>
+<head>
+    <meta charset="UTF-8">
+    <title>DevOps Demo</title>
+</head>
 
+<body style="text-align:center;margin-top:100px;">
+    <h1>🚀 Hello Pratik — DevOps CI/CD Working!</h1>
+    <h2>Git → Jenkins → Maven → Docker → ECR → ECS</h2>
+</body>
+
+</html>
